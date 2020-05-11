@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wesselvanleeuwen/Desktop/Zienema/Zienema.csproj": {}
+    "/Users/wesselvanleeuwen/Desktop/Zienema2/Zienema/Zienema.csproj": {}
   },
   "projects": {
-    "/Users/wesselvanleeuwen/Desktop/Zienema/Zienema.csproj": {
+    "/Users/wesselvanleeuwen/Desktop/Zienema2/Zienema/Zienema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wesselvanleeuwen/Desktop/Zienema/Zienema.csproj",
+        "projectUniqueName": "/Users/wesselvanleeuwen/Desktop/Zienema2/Zienema/Zienema.csproj",
         "projectName": "Zienema",
-        "projectPath": "/Users/wesselvanleeuwen/Desktop/Zienema/Zienema.csproj",
+        "projectPath": "/Users/wesselvanleeuwen/Desktop/Zienema2/Zienema/Zienema.csproj",
         "packagesPath": "/Users/wesselvanleeuwen/.nuget/packages/",
-        "outputPath": "/Users/wesselvanleeuwen/Desktop/Zienema/obj/",
+        "outputPath": "/Users/wesselvanleeuwen/Desktop/Zienema2/Zienema/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wesselvanleeuwen/.config/NuGet/NuGet.Config"
