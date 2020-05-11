@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{9CC648B4-F92A-4D4D-A2D1-4A50F852BE4E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml.cs">
     <Files>
       <File FileName="Program.cs" Line="16" Column="1" />
       <File FileName="Startup.cs" />
-      <File FileName="Pages/Index.cshtml" Line="9" Column="6" />
+      <File FileName="Pages/Index.cshtml" Line="9" Column="58" />
+      <File FileName="Pages/Index.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,15 +12,11 @@
           <Node name="Zienema" expanded="True">
             <Node name="Zienema" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" expanded="True" selected="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
-                <Node name="lib" expanded="True">
-                  <Node name="bootstrap" expanded="True" />
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
                 </Node>
               </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
