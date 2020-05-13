@@ -34,7 +34,7 @@ namespace Zienema
             }
             else
             {
-                app.UseExceptionHandler("/Error");
+                app.UseExceptionHandler("/Error1");
             }
 
             app.UseStaticFiles();
