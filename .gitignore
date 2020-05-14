@@ -1,2 +1,5 @@
 .DS_Store
 Zienema/.vs/Zienema/xs/UserPrefs.xml
+obj/
+bin/
+.vs/
