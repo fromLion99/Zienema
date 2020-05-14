@@ -1,5 +1,5 @@
-
-.DS_Store
-*.rtf
 .DS_Store
 Zienema/.vs/Zienema/xs/UserPrefs.xml
+obj/
+bin/
+.vs/
