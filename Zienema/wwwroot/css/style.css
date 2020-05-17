@@ -1,4 +1,9 @@
-﻿.inputField{
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputField{
     width: 50%;
     height: auto;
     border: 2px solid #ccc;
@@ -13,10 +18,21 @@
     height: auto;
     color: black;
     border: 2px solid #ccc;
-    border-radius: 12px;
+    border-radius: 4px;
     background-color: white;
+    padding: 4px;
 }
 
 .formButton:hover{
     background-color: #ccc;
+}
+
+.column{
+    width: 100%;
+    height: auto;
+}
+
+table{
+    width: 100%;
+    margin-left: 3%;
 }
