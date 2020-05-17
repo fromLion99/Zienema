@@ -1,0 +1,22 @@
+﻿.inputField{
+    width: 50%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    margin: 1%;
+    margin-left: 0;
+}
+
+.formButton{
+    width: auto;
+    height: auto;
+    color: black;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.formButton:hover{
+    background-color: #ccc;
+}

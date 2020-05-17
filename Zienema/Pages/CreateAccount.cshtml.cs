@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace Zienema.Pages
 {
-    public class PrivacyModel : PageModel
+    public class CreateAccountModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<CreateAccountModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public CreateAccountModel(ILogger<CreateAccountModel> logger)
         {
             _logger = logger;
         }
