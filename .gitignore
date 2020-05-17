@@ -3,3 +3,14 @@ Zienema/.vs/Zienema/xs/UserPrefs.xml
 obj/
 bin/
 .vs/
+*.cache
+*.cache
+*.json
+*.cache
+*.json
+*.props
+Zienema/obj/project.nuget.cache
+Zienema/obj/project.assets.json
+Zienema/obj/Debug/netcoreapp3.1/Zienema.assets.cache
+Zienema/obj/project.nuget.cache
+Zienema/obj/Zienema.csproj.nuget.g.props
